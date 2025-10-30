@@ -52,7 +52,6 @@ I work with modern web technologies like **React**, **Next.js**, **Node.js**, an
 - 🗺️ [Wanderlust](https://github.com/sainimanpreet/major-project) – Listing & Review Web App  
 - 🔥 More Projects coming soon...
 
----
 
 ## 🔗 Connect With Me
 
