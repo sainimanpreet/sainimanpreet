@@ -13,7 +13,7 @@
 Hey there! 👋 I'm **Manpreet Saini**, a passionate **Full-Stack Developer** who loves turning ideas into real-world applications.  
 I work with modern web technologies like **React**, **Next.js**, **Node.js**, and even dive into **Web3** with **Solidity**.
 
-- 🔭 I’m currently building cool side-projects and dApps  
+- 🔭 Iam currently building cool side-projects and dApps  
 - 🌱 Exploring the world of decentralized tech & smart contracts  
 - 🛠️ I love minimal UI, dark mode, and pixel-perfect frontend  
 - ☕ Fuelled by coffee, creativity, and clean code  
