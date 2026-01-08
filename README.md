@@ -1,13 +1,12 @@
-
 <p align="center">
   <img src="./banner.png" alt="Manpreet Saini Banner" width="100%">
 </p>
-
 
 <!-- 🔠 Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Manpreet+Saini;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%93%96;Web3+Explorer+%F0%9F%92%A1;Let's+Build+Something+Cool!" />
 </p>
+
 
 ## 🧠 About Me
 
