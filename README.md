@@ -31,20 +31,31 @@ I work with modern web technologies like **React**, **Next.js**, **Node.js**, an
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sainimanpreet&show_icons=true&theme=radical&border_radius=10&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=sainimanpreet&theme=radical&hide_border=true&border_radius=10" width="48%" />
-</p>
+<div align="center">
 
----
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=sainimanpreet&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" 
+  height="180"
+/>
+
+<img 
+  src="https://streak-stats.demolab.com?user=sainimanpreet&theme=radical&hide_border=true" 
+  height="180"
+/>
+
+</div>
+
 
 ## 📈 Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainimanpreet&layout=compact&theme=radical&hide_border=true&border_radius=10" />
-</p>
+<div align="center">
 
----
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainimanpreet&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
+/>
+
+</div>
+
 
 ## 💎 Featured Projects
 
