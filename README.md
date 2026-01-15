@@ -33,30 +33,27 @@ Hey there! 👋 I'm **Manpreet Saini**, a passionate **Full-Stack Developer** wh
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sainimanpreet&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=sainimanpreet&show_icons=true&theme=radical&hide_border=true&count_private=true"
     height="180"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=sainimanpreet&theme=radical&hide_border=true" 
+  <img
+    src="https://streak-stats.demolab.com?user=sainimanpreet&theme=radical&hide_border=true"
     height="180"
   />
 </p>
-
----
 
 ## 📈 Top Languages
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainimanpreet&layout=compact&theme=radical&hide_border=true"
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sainimanpreet&layout=compact&theme=radical&hide_border=true"
   />
 </p>
 
----
 
 ## 💎 Featured Projects
 
