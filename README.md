@@ -84,7 +84,15 @@ Hey there! 👋 I'm **Manpreet Saini**, a passionate **Full-Stack Developer** wh
   </a>
 </p>
 
+----
 
+## 🏅 GSSoC 2026 Badges
+
+<p align="center">
+  <img src="gssoc-badge-first_steps.png" width="200" alt="First Step Badge"/>
+  <img src="gssoc-badge-profile_complete.png" width="200" alt="Profile Complete Badge"/>
+  <img src="gssoc-badge-role_contributor.png" width="200" alt="Contributor Badge"/>
+</p>
 
 
 
