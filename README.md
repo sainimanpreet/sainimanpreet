@@ -7,9 +7,7 @@
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Manpreet+Saini;Full+Stack+Developer;Open+Source+Contributor;Web3+Explorer;Let's+Build+Something+Cool!" 
   />
 </p>
-
 ---
-
 ## 🧠 About Me
 
 Hey there! 👋 I'm **Manpreet Saini**, a passionate **Full-Stack Developer** who loves building clean, scalable, real-world applications.
@@ -19,17 +17,12 @@ Hey there! 👋 I'm **Manpreet Saini**, a passionate **Full-Stack Developer** wh
 - 🛠️ Minimal UI, dark mode lover  
 - ☕ Coffee + clean code = happiness  
 - 💬 Open for collaborations & ideas  
-
 ---
-
 ## 🚀 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,solidity,mongodb,tailwind,figma,git,github,vscode&theme=dark" />
 </p>
-
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
